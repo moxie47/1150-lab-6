@@ -1,0 +1,11 @@
+What is printed by the following code? 
+
+	s = 'Moxie'
+	s.capitalize()
+	print (s)
+
+a.	Moxie
+b.	MOXIE
+c.	None
+d.	moxie
+(d)
